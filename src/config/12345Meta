@@ -1,0 +1,11 @@
+{
+    "dimension" : {
+	   "rows" : ["COLUMN8","COLUMN9"],
+	"columns" : ["COLUMN4","COLUMN7"]
+    },
+    "measure"   : {
+	 "values" : ["COLUMN7","COLUMN1","COLUMN11"],
+     "operations" : ["count distinct","count","sum"]
+    },
+    "jobName" : kong's job
+}
